@@ -1,0 +1,1 @@
+# aws-social-login-trigger
